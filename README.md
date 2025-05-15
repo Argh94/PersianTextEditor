@@ -1,6 +1,9 @@
 # ویرایشگر متن فارسی
 
-![ویرایشگر متن فارسی](https://github.com/Argh94/PersianTextEditor/blob/main/images/project-preview.jpg)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/Argh94/PersianTextEditor/main/images/project-preview.jpg" alt="نمایی از پروژه ۱" width="45%">
+  <img src="https://raw.githubusercontent.com/Argh94/PersianTextEditor/main/images/project-preview2.jpg" alt="نمایی از پروژه ۲" width="45%">
+</div>
 
 ویرایشگر متن فارسی یک ابزار پیشرفته برای ویرایش متن‌های فارسی به صورت آنلاین است. این ویرایشگر با امکانات متنوع، تجربه‌ای فوق‌العاده برای کاربران فارسی‌زبان ایجاد می‌کند. شما می‌توانید این ابزار را در آدرس [Persian Text Editor](https://argh94.github.io/PersianTextEditor/) مشاهده و استفاده کنید.
 
