@@ -1,5 +1,8 @@
 # ویرایشگر متن فارسی
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Argh94&YouTube-Downloader&label=بازدیدها)
+
+
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://raw.githubusercontent.com/Argh94/PersianTextEditor/main/images/project-preview.jpg" alt="نمایی از پروژه ۱" width="45%">
   <img src="https://raw.githubusercontent.com/Argh94/PersianTextEditor/main/images/project-preview2.jpg" alt="نمایی از پروژه ۲" width="45%">
